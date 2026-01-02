@@ -1,0 +1,7 @@
+{
+  "name": "SmartBin AI - Predictive Waste Management",
+  "description": "A futuristic cloud-based AI system for smart city waste optimization, featuring real-time overflow prediction and automated pickup scheduling.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
